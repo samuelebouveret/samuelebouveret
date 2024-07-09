@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @samuelebouveret, a Computer Engineering student in Italy.
-- 🌱 I’m currently learning about basics in C, C++, Java and Python
+- 👋 Hi, I’m @samuelebouveret, a Computer Engineering student in based Italy.
+- 🌱 I’m currently learning about C, C++, Java and Python as well as Cloud related technologies and backend development.
 - 📫 Reach me at samuele.bouveret@gmail.com
